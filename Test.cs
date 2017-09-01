@@ -10,6 +10,8 @@ namespace MyGITTesting
 		{
 
 			System.Console.WriteLine("My GIT Testing");
+			System.Console.WriteLine("My GIT Testing from Soma");
+
 		
 		}
 	}
